@@ -17,6 +17,20 @@ For Windows
 ## First Rust Program
 
 Use the ```cargo new hello``` command to create a project.
+Then there is a directory "\hello" is created, inside the "\hello" directory there are two fiels Cargo.lock and Cargo.toml, two directories "\src" and "target"
+
+There is a main.rs file inside the src director. It is shown here.
+
+```
+fn main() {
+    println!("Hello, world!");
+}
+
+```
+
+In the hello directory, input cargo run command, you will get the output
+
+
 
 
 
