@@ -14,5 +14,9 @@ For Windows
 * Install Visual C++ 2013 up first
 * Download RUSTUP-INIT.EXE and run
 
+## First Rust Program
+
+Use the ```cargo new hello``` command to create a project.
+
 
 
